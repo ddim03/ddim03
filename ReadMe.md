@@ -1,6 +1,8 @@
 Hello there 👋,
 
-Junior Software Developer with a solid foundation in web technologies. I have gained practical experience through internships and freelance projects, where I've developed and maintained web applications. I'm eager to learn and grow in the field, with a focus on writing clean, efficient code and contributing to impactful projects.<br><br>
+
+I am a software developer specializing in web development with expertise in HTML, CSS, JavaScript, and PHP. I am also proficient in popular frameworks and libraries such as Bootstrap, TailwindCSS, Laravel, and ReactJS for building responsive and efficient web applications. My hands-on experience includes an internship at a software house, working on freelance web development projects, and leading web development teams. I am committed to continuous learning and staying up-to-date with the latest technologies in the software development industry.
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ddim03) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimasgda)
 
